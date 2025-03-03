@@ -6,4 +6,4 @@ Beplnx and Utilla
 
 # Installation:
 
-- Get the latest release and add the folder into your plugins folder.
+- Get the latest release and add the .dll into your plugins folder.
